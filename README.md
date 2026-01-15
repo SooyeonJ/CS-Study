@@ -3,21 +3,19 @@
 Computer Science study notes organized by subject.
 
 ## Subjects
-- Operating Systems
-- Databases
-- Computer Networks
-- Data Structures
-- Algorithms
-- Software Engineering
-- System Design
-- Security
+- **[CA]** Computer Architecture
+- **[OS]** Operating Systems
+- **[NW]** Computer Networks
+- **[DS]** Data Structures
+- **[DB]** Database
+- **[SE]** Software Engineering
+- **[PL]** Programming Languages
 
 ## Structure
 Each subject directory contains:
+- `references.md` – Books, lectures, and useful links
 - `notes/` – Concept notes and summaries
-- `cheatsheets/` – Quick review sheets
-- `problems/` – Practice problems & solutions
-- `references.md` – Books, lectures, and links
+- `problems/` – Practice problems and solutions
 
 ## Goal
 - Build solid CS fundamentals
